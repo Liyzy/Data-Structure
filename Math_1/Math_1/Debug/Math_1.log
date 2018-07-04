@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\microsoft visual studio\my_project\math_1\math_1\main.cpp(46): warning C4172: 返回局部变量或临时变量的地址: statement
+  Math_1.vcxproj -> D:\Microsoft Visual Studio\My_project\Math_1\Debug\Math_1.exe
+  Math_1.vcxproj -> D:\Microsoft Visual Studio\My_project\Math_1\Debug\Math_1.pdb (Partial PDB)

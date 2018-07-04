@@ -1,0 +1,5 @@
+﻿  IPcamera.cpp
+d:\microsoft visual studio\my_project\ipcamera\ipcamera\ipcamera.cpp(35): error C2664: “IplImage *cvQueryFrame(CvCapture *)”: 无法将参数 1 从“cv::VideoCapture”转换为“CvCapture *”
+  d:\microsoft visual studio\my_project\ipcamera\ipcamera\ipcamera.cpp(35): note: 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+d:\microsoft visual studio\my_project\ipcamera\ipcamera\ipcamera.cpp(40): error C2664: “void cvReleaseCapture(CvCapture **)”: 无法将参数 1 从“cv::VideoCapture *”转换为“CvCapture **”
+  d:\microsoft visual studio\my_project\ipcamera\ipcamera\ipcamera.cpp(40): note: 与指向的类型无关；转换要求 reinterpret_cast、C 样式转换或函数样式转换

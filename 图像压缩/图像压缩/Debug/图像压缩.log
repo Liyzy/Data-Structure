@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\microsoft visual studio\my_project\图像压缩\图像压缩\colorlist.h(24): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  图像压缩.vcxproj -> D:\Microsoft Visual Studio\My_project\图像压缩\Debug\图像压缩.exe
+  图像压缩.vcxproj -> D:\Microsoft Visual Studio\My_project\图像压缩\Debug\图像压缩.pdb (Partial PDB)

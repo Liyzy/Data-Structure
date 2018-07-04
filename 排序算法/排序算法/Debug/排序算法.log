@@ -1,0 +1,4 @@
+﻿  test.cpp
+d:\microsoft visual studio\my_project\排序算法\排序算法\test.cpp(13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  排序算法.vcxproj -> D:\Microsoft Visual Studio\My_project\排序算法\排序算法\Debug\排序算法.exe
+  排序算法.vcxproj -> D:\Microsoft Visual Studio\My_project\排序算法\排序算法\Debug\排序算法.pdb (Partial PDB)

@@ -1,0 +1,4 @@
+﻿  testGraph.cpp
+d:\microsoft visual studio\my_project\图\图\adjgraph.h(143): warning C4715: “AdjGraph<int>::FirstEdge”: 不是所有的控件路径都返回值
+  图.vcxproj -> D:\Microsoft Visual Studio\My_project\图\Debug\邻接矩阵图.exe
+  图.vcxproj -> D:\Microsoft Visual Studio\My_project\图\Debug\邻接矩阵图.pdb (Partial PDB)

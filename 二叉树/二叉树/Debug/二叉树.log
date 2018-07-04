@@ -1,0 +1,4 @@
+﻿  BinaryTreetest.cpp
+d:\microsoft visual studio\my_project\二叉树\二叉树\binarytree.h(603): warning C4715: “BinaryTree<char>::deleteLeftLogic”: 不是所有的控件路径都返回值
+  二叉树.vcxproj -> D:\Microsoft Visual Studio\My_project\二叉搜索树\Debug\二叉树.exe
+  二叉树.vcxproj -> D:\Microsoft Visual Studio\My_project\二叉搜索树\Debug\二叉树.pdb (Partial PDB)

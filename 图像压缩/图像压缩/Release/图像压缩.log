@@ -1,0 +1,8 @@
+﻿  test.cpp
+d:\microsoft visual studio\my_project\图像压缩\图像压缩\ColorList.h(24): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码
+  5 of 471 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  图像压缩.vcxproj -> D:\Microsoft Visual Studio\My_project\图像压缩\Release\图像压缩.exe
